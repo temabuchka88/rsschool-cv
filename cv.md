@@ -13,3 +13,9 @@ I have good perseverance, communication skills and a desire to learn something n
 ____
 
 ## Skills 
+* **Git, GitHub Basic**
+* **HTML**
+* **CSS**
+* **VS Code**
+* **AutoCAD**
+______
