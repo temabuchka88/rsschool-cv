@@ -33,3 +33,13 @@ body{
     box-shadow: 10px 10px 10px black;
 }
 ```
+## Education
+* College: Minsk State Polytechnic College
+    * Courses:
+        * Polish courses
+        * RS Schools Course (in progress)
+## Languages
+* Russian (Proficiency)
+* Belarussian (Intermediate)
+* English  (Intermediate)
+* Polish (Intermediate)
