@@ -6,11 +6,11 @@
 * **E-mail:** temabuchka88@gmail.com
 * [**Github**](https://github.com/temabuchka88)
 * [**Telegram**](https://t.me/fetsgsgshfjfkkf)
-____
+
 
 ## About Me
 I have good perseverance, communication skills and a desire to learn something new. I want to develop in the field of programming and achieve success!
-____
+
 
 ## Skills 
 * **Git, GitHub Basic**
@@ -18,7 +18,7 @@ ____
 * **CSS**
 * **VS Code**
 * **AutoCAD**
-______
+
 ## Code Example 
 ```
 body{
@@ -33,4 +33,3 @@ body{
     box-shadow: 10px 10px 10px black;
 }
 ```
-___
