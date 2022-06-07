@@ -1,1 +1,1 @@
-# rsschool-cv
+https://temabuchka88.github.io/rsschool-cv/cv
